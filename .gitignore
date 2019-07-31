@@ -1,0 +1,10 @@
+coverage/
+tscoverage/
+**/coverage.*
+**/results.xml
+wwwroot/
+node_modules/
+.sonarqube/
+yarn.lock
+test-report.xml
+.codecov
